@@ -3,6 +3,10 @@
     "displayName": "Simple Theme",
     "description": "Simple dark theme to inspire",
     "version": "0.0.1",
+    "publisher": "fleuquer",
+    "repository": {
+        "url": "https://github.com/fleuquer/simple-theme"
+    },
     "engines": {
         "vscode": "^1.58.0"
     },
