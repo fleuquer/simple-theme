@@ -3,7 +3,13 @@
     "displayName": "Simple Theme",
     "description": "Simple dark theme to inspire",
     "version": "0.0.1",
-    "publisher": "fleuquer",
+    "icon": "images/icon.png",
+    "publisher": "Fleuquer",
+    "author": {
+        "name": "Fleuquer Lima",
+        "url": "https://github.com/fleuquer",
+        "email": "fleuquer@gmail.com"
+    },
     "repository": {
         "url": "https://github.com/fleuquer/simple-theme"
     },
@@ -18,7 +24,12 @@
             {
                 "label": "Simple Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Simple Theme-color-theme.json"
+                "path": "./themes/Simple-theme-color-theme.json"
+            },
+            {
+                "label": "Simple Italic Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Simple-theme-italic-color-theme.json"
             }
         ]
     }

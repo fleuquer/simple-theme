@@ -1,7 +1,11 @@
 # Simple Theme
 ------------
 
-![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/y0fKFWyvpGVAVZTyMqBwH77Ih8u2/ShxlkrM0-default.jpeg)
+![](https://github.com/fleuquer/simple-theme/tree/master/images/screen1.jpeg)
+
+![](https://github.com/fleuquer/simple-theme/tree/master/images/screen2.jpeg)
+
+![](https://github.com/fleuquer/simple-theme/tree/master/images/screen3.jpeg)
 
 ### Installation
 ------------
