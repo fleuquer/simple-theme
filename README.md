@@ -1,11 +1,11 @@
 # Simple Theme
 ------------
 
-![](https://github.com/fleuquer/simple-theme/tree/master/images/screen1.jpeg)
+![](https://github.com/fleuquer/simple-theme/blob/master/images/screen1.jpeg?raw=true)
 
-![](https://github.com/fleuquer/simple-theme/tree/master/images/screen2.jpeg)
+![](https://github.com/fleuquer/simple-theme/blob/master/images/screen2.jpeg?raw=true)
 
-![](https://github.com/fleuquer/simple-theme/tree/master/images/screen3.jpeg)
+![](https://github.com/fleuquer/simple-theme/blob/master/images/screen3.jpeg?raw=true)
 
 ### Installation
 ------------
